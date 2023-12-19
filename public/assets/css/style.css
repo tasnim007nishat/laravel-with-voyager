@@ -953,6 +953,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 /* Description Shortened or Limit the length of the description
 in the frontend */
 
+
+/*===============================
+    Description Limitation in the Frontend
+===============================*/
 .description {
     max-height: 20px; /* Set a fixed maximum height for the shortened description */
     overflow: hidden;
@@ -969,3 +973,19 @@ in the frontend */
     text-decoration: none;
     cursor: pointer;
 }
+
+/*===============================
+    Rating
+===============================*/
+/*
+.testimonial-person-star {
+    font-size: 18px;
+}
+
+.testimonial-person-star .fa-star {
+    color: #ddd; /* Default star color *//*
+}
+
+.testimonial-person-star .rated {
+    color: #f39c12; /* Color for rated stars *//*
+} */
